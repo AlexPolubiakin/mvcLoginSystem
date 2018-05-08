@@ -1,0 +1,81 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.left-nav-menu{
+	float: left;
+}
+.main-content {
+	float: left;
+}
+.right-nav-menu{
+	float: left;
+}
+.version {
+	float: right;
+	color: red;
+}
+
+.resource{
+	margin-bottom: 10px;
+}
+.village {
+	width: 960px;
+	height: 540px;
+	float:left;
+	background-image: url("../img/village-bg.jpg");
+	
+}
+.town_hall {
+	margin-left: 620px;
+    margin-top: 15px;
+}
+
+.farm1 {
+	margin-left: 700px;
+}
+
+.lumbermill1 {
+	margin-left: 370px;
+	margin-top: -400px;
+}
+
+.mine1 {
+	margin-left: 20px;
+    margin-top: -250px;
+}
+.warehouse {
+	margin-left: 60px;
+    margin-top: 50px;
+}
+
+.gold .food .wood .iron {
+	margin: 0px 5px 0px 0px;
+}
+
+.badge-position {
+	position: relative;
+	left: -170px;
+	top: 100px;
+}
+.bp-lumber {
+	position: relative;
+	left: -180px;
+	top: 100px;
+}
+.bp-farm-1{
+	position: relative;
+	top: 107px;
+	left: -170px;
+}
+.bp-farm-2{
+	position: relative;
+	left: 92px;
+	
+}
+
+/*.reseach .army .map .quest {*/
+/*	width: 730px;*/
+/*	height: 560px;*/
+/*	background-image: url("../img/under_construction.png");*/
+/*}*/
